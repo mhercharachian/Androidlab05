@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Lab04-Localisation "</string>
+    <string name="country">England</string>
+    <string name="errors">Errors Will Appear Here</string>
+    <string name="searchmap">Search Map</string>
+    <string name="googlesearch">Google Search</string>
+    <string name="location">Enter A Location</string>
+</resources>

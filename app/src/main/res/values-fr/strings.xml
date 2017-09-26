@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">\"Lab04-Localisation \"</string>
+    <string name="country">Angleterre</string>
+    <string name="errors">Les erreurs apparaîtront ici</string>
+    <string name="search">Chercher</string>
+    <string name="googlesearch">Rechercher sur Google</string>
+    <string name="searchmap">Rechercher sur carte</string>
+    <string name="location">Entrez un lieu</string>
+</resources>
